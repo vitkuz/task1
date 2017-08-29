@@ -1,0 +1,53 @@
+----------BABEL
+babel-core
+babel-preset-es2015
+babel-preset-react
+
+babel-plugin-syntax-class-properties
+babel-plugin-syntax-object-rest-spread
+
+babel-plugin-transform-class-properties
+babel-plugin-transform-object-rest-spread
+
+babel-runtime
+babel-plugin-transform-runtime
+
+----------GULP 4
+https://demisx.github.io/gulp4/2015/01/15/install-gulp4.html - install gulp 4
+gulp-babel
+gulp-changed
+gulp-load-plugins
+gulp-sourcemaps
+
+
+rimraf - for removing build folder
+
+----------SERVER
+express
+pug
+
+source-map-support
+
+-----------WEBPACK
+webpack
+node-sass
+babel-loader
+css-loader
+sass-loader
+json-loader
+url-loader
+extract-text-webpack-plugin
+
+webpack-dev-server
+
+--------------LIBS
+lodash
+react
+
+--------------UI
+bootstrap
+fontawsome - icons
+
+
+1) gulp server:build
+2) npm start
